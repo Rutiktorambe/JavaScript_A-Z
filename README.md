@@ -3,3 +3,10 @@
 
 ### What is JavaScript?
 JavaScript (JS) is the top programming language for web development, used for both Client-Side and Server-Side purposes. It’s is also known as a scripting language for web pages.It is commonly used to create dynamic and interactive content on websites. JS plays a crucial role in modern web browsers, enabling client-side scripting to modify web page content in real-time, enhancing user experience.
+
+Use the `print()` function to display output.
+```
+def greet():
+    print("Hello, world!")
+greet()
+```
